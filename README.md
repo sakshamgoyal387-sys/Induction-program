@@ -1,8 +1,5 @@
-# Induction-program
-# Induction Program Summary
-
+# GNDEC-Induction program summary
 ## **Day 1**
-
 **8:30 AM – 9:30 AM**  
 The day started with a spiritual session of *Path* and *Kirtan* at the college Gurdwara Sahib. This event marked a blessed beginning to our academic journey as future tech professionals. I was excited to begin this new phase and explore the vibrant and green college campus, which left a great first impression.
 
